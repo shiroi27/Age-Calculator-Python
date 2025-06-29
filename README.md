@@ -32,6 +32,7 @@ Designed with a smooth GUI using **Tkinter** and styled for a clean and classic 
 ## 🚀 How to Run
 
 1. **Clone this repository**
+   
    ```bash
    git clone https://github.com/shiroi27/Age-Calculator-Python.git
    cd Age-Calculator-Python
