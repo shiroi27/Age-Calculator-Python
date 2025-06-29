@@ -46,13 +46,13 @@ Designed with a smooth GUI using **Tkinter** and styled for a clean and classic 
 
 ✅ Make sure you have Python installed (preferably Python 3.11 or higher)
 
-⸻
+---
 
 ## 📌 Sample Input
 	•	Date of Birth: 13-08-1999
 	•	Time of Birth: 5:30 PM
 
-⸻
+---
 
 ## 💡 What I Learned
 
@@ -62,7 +62,7 @@ Through this project, I deepened my understanding of:
 	•	Structuring clean user interfaces
 	•	Creating meaningful feedback and visual layout
 
-⸻
+---
 
 ## 🤝 Connect With Me
 
@@ -72,13 +72,13 @@ Let’s connect and grow together! 🌱✨
             - 🐦 [Twitter: @_shiroi_27_](https://twitter.com/_shiroi_27_)
             - 💼 [LinkedIn: @shiroi27](https://linkedin.com/in/shiroi27)
 
-⸻
+---
 
 📜 License
 
 This project is open-source and free to use under the MIT License.
 
-⸻
+---
 
 🔖 Tags
 
