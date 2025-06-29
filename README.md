@@ -37,7 +37,8 @@ Designed with a smooth GUI using **Tkinter** and styled for a clean and classic 
    git clone https://github.com/shiroi27/Age-Calculator-Python.git
    cd Age-Calculator-Python
    ```
-2.	Run the Python file
+2. Run the Python file
+   
    ```bash
    python Age_Calculator.py
    ```
