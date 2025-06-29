@@ -1,5 +1,6 @@
 ## 📸 Preview  
-![Age Calculator Screenshot](https://github.com/shiroi27/Age-Calculator-Python/assets/your-screenshot-link)
+![Age Calculator Screenshot](https://github.com/user-attachments/assets/3f29e225-e231-42c8-a850-8885b5dc7983)
+
 
 ---
 
