@@ -48,13 +48,13 @@ Designed with a smooth GUI using **Tkinter** and styled for a clean and classic 
 
 ⸻
 
-📌 Sample Input
+## 📌 Sample Input
 	•	Date of Birth: 13-08-1999
 	•	Time of Birth: 5:30 PM
 
 ⸻
 
-💡 What I Learned
+## 💡 What I Learned
 
 Through this project, I deepened my understanding of:
 	•	GUI placement using Tkinter
