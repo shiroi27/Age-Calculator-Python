@@ -40,7 +40,7 @@ Designed with a smooth GUI using **Tkinter** and styled for a clean and classic 
 2. Run the Python file
    
    ```bash
-   python Age_Calculator.py
+     python Age_Calculator.py
    ```
 
 
